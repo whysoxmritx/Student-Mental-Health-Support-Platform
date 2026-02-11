@@ -1,6 +1,5 @@
 # 🧠 Silent Support  
 ### Anonymous Student Mental Wellness Platform  
-**LPU Hackathon – SDG 3 (Good Health & Well‑Being)**
 
 ---
 
