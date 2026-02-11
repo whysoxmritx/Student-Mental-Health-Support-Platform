@@ -140,8 +140,3 @@ A privacy-first, student-focused mental wellness assistant that combines assessm
 ✔ Clean, professional UI  
 
 ---
-
-## 👥 Developed For
-
-LPU Hackathon 01  
-SDG 3 – Good Health and Well-Being
